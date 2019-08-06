@@ -1,5 +1,5 @@
 # IceLakeAttack-JavascriptGame
-A random game made in a short period of time (mostly for familiarising selg with JavaScript)
+A random game made in 1 hour(mostly to familiarise  myself with JavaScript)
 
 use WASD to control
 
